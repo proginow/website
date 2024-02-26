@@ -1,9 +1,9 @@
 ---
 title: ID
-description:  ID Encode/Decode
+description:  ID Encode/Decode Library
 published: true
-date: 2024-02-26T10:22:01.592Z
-tags: framework, proginow, id
+date: 2024-02-26T10:59:04.332Z
+tags: framework, id, proginow
 editor: markdown
 dateCreated: 2024-02-26T10:22:01.592Z
 ---
