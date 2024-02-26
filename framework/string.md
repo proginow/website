@@ -2,8 +2,8 @@
 title: String
 description: String And Validation Library
 published: true
-date: 2024-02-26T11:09:18.790Z
-tags: 
+date: 2024-02-26T11:17:59.928Z
+tags: framework, proginow, string, validation
 editor: markdown
 dateCreated: 2024-02-26T11:09:18.789Z
 ---
