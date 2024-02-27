@@ -2,7 +2,7 @@
 title: Upload
 description: File Upload Library
 published: true
-date: 2024-02-27T06:00:17.809Z
+date: 2024-02-27T06:00:22.128Z
 tags: framework, proginow, upload, file
 editor: markdown
 dateCreated: 2024-02-27T06:00:17.809Z

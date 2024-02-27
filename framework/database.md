@@ -2,7 +2,7 @@
 title: Database
 description: ORM And Database Library
 published: true
-date: 2024-02-26T11:19:06.465Z
+date: 2024-02-26T11:19:10.479Z
 tags: framework, proginow, database, orm
 editor: markdown
 dateCreated: 2024-02-26T11:19:06.465Z

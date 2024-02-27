@@ -2,7 +2,7 @@
 title: Template
 description: Template Engine Library
 published: true
-date: 2024-02-26T10:48:44.727Z
+date: 2024-02-26T10:48:48.429Z
 tags: framework, blade, laravel, engine
 editor: markdown
 dateCreated: 2024-02-26T10:48:44.727Z

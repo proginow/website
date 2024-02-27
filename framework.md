@@ -2,7 +2,7 @@
 title: Framework
 description: Proginow PHP Framework
 published: true
-date: 2024-02-27T06:42:25.107Z
+date: 2024-02-27T06:42:28.691Z
 tags: framework, laravel, proginow, npm
 editor: markdown
 dateCreated: 2024-02-26T08:57:33.594Z
